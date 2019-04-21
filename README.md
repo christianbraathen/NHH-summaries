@@ -15,6 +15,13 @@ Exam-preparatory summaries for various courses at the Norwegian School of Econom
 - *Name of the course*: Økonomisystemer og -styring (BED040)
 - *An equivalent, more recent course*: Økonomisystemer og -styring (BED5)
 
+## ECN402
+- *Language*: English
+- *Year*: 2018
+- *Semester*: Autumn
+- *Name of the course*: Econometrics (ECN402)
+- *Similar courses*: BUS444, BAN321, FIE401A/FIE401B, FIE449
+
 ## ECO400
 - *Language*: Norwegian
 - *Year*: 2017
