@@ -81,3 +81,6 @@ Exam-preparatory summaries for various courses at the Norwegian School of Econom
 - *Name of the course*: Strategisk ledelse (SOL040)
 - *An equivalent, more recent course*: Strategisk ledelse (SOL4)
 
+# MAT10 group sessions
+
+From my three years teaching Analysis and Linear Algebra, here's the calculations from every group session. Thank you to Marit Helene Gladhaug for sharing Casio hints.
