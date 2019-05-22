@@ -34,6 +34,12 @@ Exam-preparatory summaries for various courses at the Norwegian School of Econom
 - *Semester*: Autumn
 - *Name of the course*: Optimisation and Microeconomic Theory (ECO401)
 
+## FIE402
+- *Language*: English
+- *Year*: 2018
+- *Semester*: Autumn
+- *Name of the course*: Corporate Finance (FIE402)
+
 ## FOR10/MAT14
 - *Language*: English
 - *Year*: 2016
