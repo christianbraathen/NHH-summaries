@@ -1,9 +1,18 @@
 # NHH-summaries
-Exam-preparatory summaries for various courses at the Norwegian School of Economics. Please note that each summary was written in the days just before the respective exam, so they may contain multiple typos and other minor errors. Additionally, minor errors in the summaries may have been corrected by hand the day before the exam and therefore not updated in the summary. However, these handwritten modificiations are rare.
+Exam-preparatory summaries and other helpful notes for various courses at the Norwegian School of Economics by Marit Helene Gladhaug and Christian Braathen.
+
+Please note the following for summaries: each summary was written in the days just before the respective exam, so they may contain multiple typos and other minor errors. Additionally, minor errors in the summaries may have been corrected by hand the day before the exam and therefore not updated in the summary. However, these handwritten modificiations are rare.
+
+##BED2
+- *Language*: Norwegian
+- *Year*: 2016
+- *Semester*: Autumn
+- *Name of the course*: Finansregnskap
+
 
 ## BED030/BED3
 - *Language*: Norwegian
-- *Year*: 2016
+- *Year*: 2016 and 2017
 - *Semester*: Spring
 - *Name of the course*: Investering og finans (BED030)
 - *An equivalent, more recent course*: Investering og finans (BED3)
