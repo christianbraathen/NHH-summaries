@@ -3,7 +3,7 @@ Exam-preparatory summaries and other helpful notes for various courses at the No
 
 Please note the following for summaries: each summary was written in the days just before the respective exam, so they may contain multiple typos and other minor errors. Additionally, minor errors in the summaries may have been corrected by hand the day before the exam and therefore not updated in the summary. However, these handwritten modificiations are rare.
 
-##BED2
+## BED2
 - *Language*: Norwegian
 - *Year*: 2016
 - *Semester*: Autumn
